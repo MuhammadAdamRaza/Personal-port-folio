@@ -59,7 +59,7 @@ function HeroSection() {
           transition={{ duration: 0.8 }}
         >
           <h1 className="text-5xl font-bold text-slate-800 mb-4">Muhammad Adam Raza</h1>
-          <h2 className="text-3xl text-blue-600 mb-6">Web developor and IT</h2>
+          <h2 className="text-3xl text-blue-600 mb-6">Web Developer & IT Specialist – Building websites and fixing systems.</h2>
           <p className="text-lg text-slate-600 mb-8">Creating innovative solutions through technology and problem-solving</p>
           <div className="flex space-x-4">
             <Button 
